@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+   font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,6 +10,10 @@ body {
     background-position: center; 
     background-repeat: no-repeat; 
   }
+h1{
+    color:red;
+    text-align:center;
+}
   
   .calculator {
     width: 300px;
